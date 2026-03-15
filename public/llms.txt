@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו את עולם הסכינים המזויפים המקצועיים. סכיני שף ארגונומיים וחדים במיוחד שהופכים כל חיתוך לחוויה. איכות פרמיום למטבח הישראלי המודרני.
+
+### אודות
+https://example.com/about
+אקס נייבס הוקמה מתוך אהבה לבישול ואמונה שכל שף ביתי ראוי לכלים מקצועיים. למדו על הערכים שלנו: דיוק, ארגונומיה ואיכות ללא פשרות בכל סכין.
+
+### טיפול בסכינים ושאלות נפוצות
+https://example.com/faq
+כל מה שצריך לדעת על סוגי סכיני מטבח, טיפול נכון בסכינים מזויפים, השחזה ואחסון. מדריך מקיף לשמירה על החדות והעמידות לשנים ארוכות.
+
+### צור קשר
+https://example.com/contact
+יש שאלות על סט סכיני מטבח מפלדת דמשק או עצות לבחירת סכין? צוות המומחים שלנו כאן בשבילך. צרו קשר עוד היום וקבלו ייעוץ אישי חינם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - X Knives / אקס נייבס
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - X Knives / אקס נייבס
+
+### Category
+https://example.com/category/:slug
+מוצרים - X Knives / אקס נייבס
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
